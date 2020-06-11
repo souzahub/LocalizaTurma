@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"> Retira a barra do nome-->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+      <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/a01</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    // colocar o clique dos botoes em duas cores
+    <style name="botaoPadrao" parent="Theme.AppCompat.Light">
+
+        <item name="colorControlHighlight">#2196F3</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+        <item name="android:textColor">@android:color/white</item>
+
+    </style>
+
+</resources>

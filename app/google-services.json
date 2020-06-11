@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822206374601",
+    "firebase_url": "https://melocaliza-15e57.firebaseio.com",
+    "project_id": "melocaliza-15e57",
+    "storage_bucket": "melocaliza-15e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822206374601:android:14ce2083fffc1314aca318",
+        "android_client_info": {
+          "package_name": "com.example.localiza_ae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822206374601-6s9sfssg5cvsqt2qn57aupkf26nuf1r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localiza_ae",
+            "certificate_hash": "61e4e4d7b43761e083cd792a504467b2a91e2afc"
+          }
+        },
+        {
+          "client_id": "822206374601-8n2fomjc4lgiav96ootmda3o73ofl75q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DGxOEQxYYiYWShGDOOl78dDvi7LwR2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822206374601-8n2fomjc4lgiav96ootmda3o73ofl75q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

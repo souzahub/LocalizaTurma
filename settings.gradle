@@ -1,0 +1,2 @@
+rootProject.name='Localiza_Ae'
+include ':app'
